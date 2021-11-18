@@ -1,2 +1,2 @@
 # cookiecutter-kratos
-A Kratos project template
+Powered by [Cookiecutter](https://github.com/audreyr/cookiecutter),A [Kratos](https://github.com/go-kratos/kratos) project template
