@@ -3,6 +3,8 @@ Powered by [Cookiecutter](https://github.com/audreyr/cookiecutter),A [Kratos](ht
 
 ## Features
 
+- Generate Kratos project struct with custom name
+
 ## Requirements
 
 - [Kratos](https://github.com/go-kratos/kratos)
@@ -14,7 +16,6 @@ Powered by [Cookiecutter](https://github.com/audreyr/cookiecutter),A [Kratos](ht
  To run it based on this template,Type:
 
  ```shell
-    cookiecutter https://github.com/gouez/cookiecutter-kratos.git
+cookiecutter https://github.com/gouez/cookiecutter-kratos.git
  ```
 
- 
