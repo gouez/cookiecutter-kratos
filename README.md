@@ -9,3 +9,12 @@ Powered by [Cookiecutter](https://github.com/audreyr/cookiecutter),A [Kratos](ht
 - [wire](github.com/google/wire/cmd/wire)
 - [Cookiecutter](https://github.com/audreyr/cookiecutter)
 
+## Usage
+
+ To run it based on this template,Type:
+
+ ```shell
+    cookiecutter https://github.com/gouez/cookiecutter-kratos.git
+ ```
+
+ 
