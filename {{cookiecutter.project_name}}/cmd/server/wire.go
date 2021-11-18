@@ -5,11 +5,11 @@
 package main
 
 import (
-	"kratos-template/internal/biz"
-	"kratos-template/internal/conf"
-	"kratos-template/internal/data"
-	"kratos-template/internal/server"
-	"kratos-template/internal/service"
+	"{{cookiecutter.module_name}}/internal/biz"
+	"{{cookiecutter.module_name}}/internal/conf"
+	"{{cookiecutter.module_name}}/internal/data"
+	"{{cookiecutter.module_name}}/internal/server"
+	"{{cookiecutter.module_name}}/internal/service"
 	"github.com/go-kratos/kratos/v2"
 	"github.com/go-kratos/kratos/v2/log"
 	"github.com/google/wire"

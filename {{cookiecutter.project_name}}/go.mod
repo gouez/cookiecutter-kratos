@@ -1,4 +1,4 @@
-module kratos-template
+module {{cookiecutter.module_name}}
 
 go 1.16
 
